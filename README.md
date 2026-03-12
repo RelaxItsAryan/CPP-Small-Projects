@@ -1,3 +1,5 @@
 # CPP-Small-Projects
 
-1ST- Project - Currency converter in cpp
+## 1st- Project - Currency converter in cpp
+
+## 2nd- Project - To Do List
